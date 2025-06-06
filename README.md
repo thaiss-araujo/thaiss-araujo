@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👩‍💻 Thaís Araújo dos Santos
 
-<!--
-**thaiss-araujo/thaiss-araujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desenvolvedora de Sistemas em início de carreira, apaixonada por resolver problemas com tecnologia e aprender continuamente. Buscando minha primeira oportunidade profissional na área de TI para contribuir com soluções e crescer como desenvolvedora.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+
+- 💻 Formada em **Análise e Desenvolvimento de Sistemas** pela Universidade Paulista (2023–2024).
+- 📚 Experiência acadêmica em projetos com **C#**, **SQL**, **JavaScript** e **Desenvolvimento web**.
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thaisaraujo&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaisaraujo&layout=compact&theme=default)
+
+---
+
+## 🌐 Contato
+  
+📧 araujothais.0105@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/araujo-thais)
+
+---
+
+⭐ Obrigada por visitar meu perfil! Sinta-se à vontade para explorar meus projetos e me chamar para conversar. 🚀
+
