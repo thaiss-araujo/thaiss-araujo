@@ -1,4 +1,4 @@
-# 👩‍💻 Thaís Araújo dos Santos
+# 👩‍💻 Thais Araujo dos Santos
 
 🎯 Desenvolvedora de Sistemas em início de carreira, apaixonada por resolver problemas com tecnologia e aprender continuamente. Buscando minha primeira oportunidade profissional na área de TI para contribuir com soluções e crescer como desenvolvedora.
 
