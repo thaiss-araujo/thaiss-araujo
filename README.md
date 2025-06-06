@@ -12,8 +12,8 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thaiss-araujo&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaiss-araujo&layout=compact&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thaiss-araujo&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaiss-araujo&layout=compact&theme=tokyonight)
 
 ---
 
